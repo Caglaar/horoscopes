@@ -1,4 +1,3 @@
-![HomePage](https://github.com/Caglaar/Horoscopes/assets/100859025/0fb87afe-a2b9-4ec2-9bff-86be6b1fa4e8)# horoscope
 
 This project is Horoscopes App. This app shows signs of zodiac signs. I using Flutter color library : palette_generator
 
